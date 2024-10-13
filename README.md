@@ -1,4 +1,4 @@
-Some clean code for some clean jobs.
+Some production level code I've written for Game Studios in the past.
+This contains a world sound system I built for ByteVerse Games
 
-Looking for internships for college applications! :)
 (whoever made Knit, I love you.)
